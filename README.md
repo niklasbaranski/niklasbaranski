@@ -1,8 +1,7 @@
-# Free Python Books
+## Niklas
+Joined: 01/07/2021
 
-A list of Python books in English that are free to read online or download.
-
-## TL;DR
+# About Me
 
 - 👋 Hi, I’m Niklas
 - 💞️ I’m 16 years old
