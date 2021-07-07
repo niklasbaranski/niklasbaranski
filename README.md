@@ -1,5 +1,5 @@
 ## Niklas
-Joined: 01/07/2021
+Joined: 07/07/2021
 
 # About Me
 
