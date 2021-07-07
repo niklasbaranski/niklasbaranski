@@ -1,4 +1,9 @@
-#About Me
+# Free Python Books
+
+A list of Python books in English that are free to read online or download.
+
+## TL;DR
+
 - 👋 Hi, I’m Niklas
 - 💞️ I’m 16 years old
 - 👀 I’m interested in JavaScript
