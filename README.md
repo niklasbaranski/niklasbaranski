@@ -1,4 +1,4 @@
-##About Me
+#About Me
 - 👋 Hi, I’m Niklas
 - 💞️ I’m 16 years old
 - 👀 I’m interested in JavaScript
