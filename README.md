@@ -1,14 +1,11 @@
 # Niklas
-NEW ACCOUNT!!! 
-
-Joined: 07/07/2021
 
 ## About Me
 
 - 👋 Hi, I’m Niklas
 - 💞️ I’m 16 years old
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning Ionic-Angular
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning PHP
 - 📫 How to reach me:
 
   Discord: @Niklas#2290
